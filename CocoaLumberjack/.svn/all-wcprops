@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack
+END
+DDLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDLog.h
+END
+DDASLLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/115/trunk/GCD/Vendor/CocoaLumberjack/DDASLLogger.m
+END
+DDFileLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDFileLogger.m
+END
+DDTTYLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/trunk/GCD/Vendor/CocoaLumberjack/DDTTYLogger.m
+END
+DDLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDLog.m
+END
+DDAbstractDatabaseLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.h
+END
+DDAbstractDatabaseLogger.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDAbstractDatabaseLogger.m
+END
+DDASLLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/115/trunk/GCD/Vendor/CocoaLumberjack/DDASLLogger.h
+END
+DDFileLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/168/trunk/GCD/Vendor/CocoaLumberjack/DDFileLogger.h
+END
+DDTTYLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/133/trunk/GCD/Vendor/CocoaLumberjack/DDTTYLogger.h
+END
